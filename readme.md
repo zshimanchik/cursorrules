@@ -1,0 +1,1 @@
+Copy needed file into `.cursorrules` of your project.
